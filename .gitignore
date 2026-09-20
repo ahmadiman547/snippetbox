@@ -1,0 +1,12 @@
+# Binaries
+/snippetbox
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Env and IDEs
+.env
+.idea/
+.vscode/
